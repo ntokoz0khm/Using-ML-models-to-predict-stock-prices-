@@ -53,3 +53,10 @@ The project aims to develop a machine learning model that can reasonably predict
 Conclusion
 
 This project will demonstrate the application of machine learning techniques in financial forecasting, highlighting both the potential and limitations of such approaches. The findings could be useful for further research or practical applications in financial markets.
+
+
+Milestones: 
+
+	•	Explore additional features (e.g., technical indicators, macroeconomic factors).
+	•	Implement more advanced models (e.g., LSTM, GRU) for time series forecasting.
+	•	Integrate real-time data for continuous model updates and predictions.
